@@ -62,3 +62,5 @@ CTestTestfile.cmake
 *.pro.user
 *.qbs.user
 *.ts.user
+ninjabuilddebug/
+ninjabuildrelease/
