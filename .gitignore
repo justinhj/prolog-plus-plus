@@ -64,3 +64,5 @@ CTestTestfile.cmake
 *.ts.user
 ninjabuilddebug/
 ninjabuildrelease/
+.cache/
+compile_commands.json
